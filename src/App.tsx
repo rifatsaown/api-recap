@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import PostGet from './components/PostsGet/PostGet';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World </h1>
+      <PostGet/>
     </div>
   );
 }
