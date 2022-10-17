@@ -9,6 +9,7 @@ const PostLoad = (props:Object) => {
             <h3>Title : {title} </h3>
             <p>UserId : {userId} </p>
             <p>Body : {body} </p>
+            
         </div>
     );
 };
